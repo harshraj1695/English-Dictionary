@@ -6,8 +6,7 @@ This is a simple English Dictionary web app built with **HTML**, **CSS**, and **
 
 - Search for a word and get its **definition**.
 - View **examples** of the word in use.
-- Explore **synonyms** of the word.
-- Listen to the **pronunciation** of the word.
+
 
 ## Tech Stack
 
@@ -20,7 +19,7 @@ This is a simple English Dictionary web app built with **HTML**, **CSS**, and **
 
 You can view the live demo of the dictionary app by clicking the link below:
 
-[Live Project Link](https://your-live-project-link.com)
+[Live Project Link]([https://your-live-project-link.com](https://harshraj1695.github.io/English-Dictionary)
 
 
 
