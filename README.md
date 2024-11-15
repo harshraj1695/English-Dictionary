@@ -22,13 +22,12 @@ You can view the live demo of the dictionary app by clicking the link below:
 
 [Live Project Link](https://your-live-project-link.com)
 
-> Replace `your-live-project-link.com` with your actual deployed project URL.
+
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+(![image](https://github.com/user-attachments/assets/d6ddf714-116b-4631-a185-be325f94251e)
 
-> Replace `screenshot.png` with your actual screenshot file or provide the link to it.
 
 ## Setup Instructions
 
